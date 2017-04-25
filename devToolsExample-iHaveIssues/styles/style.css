@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+}
+
+p{
+  margin-left: 5%;
+  color: black;
+  font-family: courier;
+}
+
+h2 {
+    color: navy;
+    margin-left: 3%;
+    font-family: courier;
+}
